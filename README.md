@@ -538,4 +538,4 @@ PayPal: [https://www.paypal.me/mybsdc](https://www.paypal.me/mybsdc)
 
 ### 🥝 开源协议
 
-[MIT](https://opensource.org/licenses/mit-license.php)
+[MIT](https://opensource.org/licenses/mit-license.php)a
